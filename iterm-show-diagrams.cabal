@@ -18,6 +18,6 @@ cabal-version:       >=1.10
 
 library
   exposed-modules:     ITermShow.Diagrams
-  build-depends:       base >=4.9 && <4.13, diagrams-lib, iterm-show, JuicyPixels, diagrams-rasterific
+  build-depends:       base >=4.9 && <5.0, diagrams-lib, iterm-show, JuicyPixels, diagrams-rasterific
   hs-source-dirs:      src
   default-language:    Haskell2010
